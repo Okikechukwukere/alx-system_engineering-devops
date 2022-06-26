@@ -1,1 +1,1 @@
-This is the repo Readme
+This is the shell permissions readme file
